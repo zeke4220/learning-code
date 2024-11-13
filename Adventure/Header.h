@@ -1,0 +1,11 @@
+#pragma once
+void Adventure_Start();
+void Hero_Weapon();
+void Choice_1();
+void Decision1();
+void Choice_2();
+void Decision2();
+void Choice_3();
+void Decision3();
+void Final_choice();
+void The_End();
